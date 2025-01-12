@@ -1,0 +1,3 @@
+CODSOFT INTERSHIP PROGRAM
+PROJECT1- Random Guess Number Game
+PROJECT2- Simple Calculator
